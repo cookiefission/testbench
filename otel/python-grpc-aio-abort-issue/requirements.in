@@ -1,0 +1,4 @@
+grpcio
+
+opentelemetry-distro[otlp]
+opentelemetry-instrumentation-grpc
